@@ -1,0 +1,55 @@
+footer p{
+    color: white !important;
+}
+footer ul{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+footer a:hover{
+    color: gray !important;
+}
+body {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 10px;
+    color: #333;
+}
+.mt-50 {
+    margin-top: 50px
+}
+.mb-50 {
+    margin-bottom: 50px
+}
+.card {
+    position: relative;
+    background-color: #fff;
+    border: 1px solid rgb(184, 180, 180);
+    border-radius: 5px
+}
+.card-img{
+    width: auto;
+    height: 200px;
+}
+.card-img-actions {
+    position: relative
+}
+.card-body {
+    text-align: center
+}
+
+.bg-cart {
+    margin: 10px;
+    background-color: red;
+    color: white
+}
+.bg-cart:hover {
+    background-color: white;
+    color: red;
+}
+a {
+    text-decoration: none !important
+}
+.nav-link{
+    color: white !important;
+}
