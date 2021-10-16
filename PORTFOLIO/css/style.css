@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+nav{
+    font-family: Ubuntu;
+    font-size: 15px !important;
+    margin-top: 20px !important;
+}
+.nav-link{
+    color: rgb(85, 84, 84);
+}
+nav a:hover{
+    color: black !important;
+    border-bottom:1px solid black !important;
+}
+body{
+    font-family: Ubuntu;
+    background-image:url(../imagenes/fondo1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 100px;
+}
+h2{
+    margin-bottom: 20px;
+}
+.form-control{
+    margin-bottom: 10px;
+}
+#btn-form{
+    color: white !important;
+    background-color: #212529 !important;
+}
+#btn-form:hover{
+    background-color: white !important;
+    color: #212529 !important;
+}
+.icon-cust{
+    font-family: Ubuntu !important;
+    color: white;
+    text-decoration: none;
+}
+.icon-cust:hover{
+    color: white;
+}
+footer button{
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+    margin-bottom: 10px !important;
+}
+.icon-cust-p{
+    font-family: Ubuntu !important;
+    color: white;
+    text-decoration: none;
+}
+.fas{
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+.h2-sm{
+    padding-top: 10px !important;
+    background-color: white;
+    color: #212529;
+}
+.foto-sm{
+    filter: grayscale(30%);
+    border-radius: 100%;
+}
+.foto-sm:hover{
+    filter: grayscale(70%);
+}
